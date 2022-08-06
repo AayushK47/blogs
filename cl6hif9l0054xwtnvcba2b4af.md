@@ -172,7 +172,7 @@ Comment.addHook("afterFind", findResult => {
       } else if (instance.commentableType === "video" && instance.video !== undefined) {
         instance.commentable = instance.video;
       }
-      // To prevent mistakes:
+
       delete instance.image;
       delete instance.dataValues.image;
       delete instance.video;
@@ -181,7 +181,6 @@ Comment.addHook("afterFind", findResult => {
 });
 
 module.exports = Comment;
-Footer
 ```
 
 Nothing fancy here, I have simply defined three tables here. 
