@@ -5,6 +5,7 @@ seoDescription: "In this blog, we'll explore some of the most common programming
 datePublished: Thu Mar 16 2023 09:48:33 GMT+0000 (Coordinated Universal Time)
 cuid: clfaxi2tl002b09la8n30avm9
 slug: common-programming-concepts-across-different-languages-how-understanding-one-language-can-help-you-learn-others
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678960844572/f606e7f5-2f11-410a-b6e9-d3a1af979b93.png
 tags: functions, programming-languages, object-oriented-programming, programming-basics, programmingconcepts
 
 ---
