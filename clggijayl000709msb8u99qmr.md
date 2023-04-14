@@ -3,6 +3,7 @@ title: "From Relational to Analytical: The Power of Redshift Data Warehousing an
 datePublished: Fri Apr 14 2023 12:15:55 GMT+0000 (Coordinated Universal Time)
 cuid: clggijayl000709msb8u99qmr
 slug: from-relational-to-analytical-the-power-of-redshift-data-warehousing-and-analytics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681474642695/a8d775ab-30b1-4f1c-a605-d0ac6e119808.png
 tags: databases, redshift, data-warehousing, relational-database, data-analytics
 
 ---
